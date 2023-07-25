@@ -6,7 +6,7 @@ The project showcases a grid of typing animations, each cycling through a differ
 
 ## Demo
 
-You can watch the demo video [here](insert video link) or check out the live demo https://64c00eca04c398097be4f844--preeminent-rugelach-894e9d.netlify.app/.
+You can watch the demo video https://www.linkedin.com/in/harryparkinson101/ or check out the live demo https://64c00eca04c398097be4f844--preeminent-rugelach-894e9d.netlify.app/.
 
 ## Installation and Setup
 
